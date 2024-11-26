@@ -1,0 +1,21 @@
+.img
+{
+width:200px;
+height:80px;
+}
+.head
+{
+text-align: center;
+}
+ 
+.line
+{
+border-bottom:2px solid black;
+}
+.text
+{
+text-align:justify;
+}
+
+
+

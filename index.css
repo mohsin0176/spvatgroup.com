@@ -16,6 +16,11 @@ border-bottom:2px solid black;
 {
 text-align:justify;
 }
-
+#name
+{
+font-family: 'Abril Fatface', serif;
+font-size: 14px;
+color:#00ff00;
+}
 
 
